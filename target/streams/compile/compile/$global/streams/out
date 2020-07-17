@@ -1,0 +1,18 @@
+[0m[[0m[0mdebug[0m] [0m[0mAcquiring lock on file /Users/yifuduan/projects/cats/project/target/.sbt-compilation-infos/cats-compile/.sbt-idea-lock ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mReleasing lock on file /Users/yifuduan/projects/cats/project/target/.sbt-compilation-infos/cats-compile/.sbt-idea-lock.[0m
+ no class, trait or object is defined in the compilation unit.[0m
+[0m[[0m[33mwarn[0m] [0m[0mThe incremental compiler cannot record the dependency information in such case.[0m
+[0m[[0m[33mwarn[0m] [0m[0mSome errors like unused import referring to a non-existent class might not be reported.[0m
+[0m[[0m[33mwarn[0m] [0m[0m    [0m
+[0m[[0m[33mwarn[0m] [0m[0mpackage ch2[0m
+[0m[[0m[33mwarn[0m] [0m[0m^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/Users/yifuduan/projects/cats/src/main/scala/ch3/Tree.scala:12:8: Tree has a valid main method (args: Array[String])Unit,[0m
+[0m[[0m[33mwarn[0m] [0m[0m  but ch3.Tree will not have an entry point on the JVM.[0m
+[0m[[0m[33mwarn[0m] [0m[0m  Reason: companion is a trait, which means no static forwarder can be generated.[0m
+[0m[[0m[33mwarn[0m] [0m[0mobject Tree extends App{[0m
+[0m[[0m[33mwarn[0m] [0m[0m       ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mthere was one deprecation warning (since 2.11.0)[0m
+[0m[[0m[33mwarn[0m] [0m[0mthere was one deprecation warning (since 2.13.0)[0m
+[0m[[0m[33mwarn[0m] [0m[0mthere were two deprecation warnings in total; re-run with -deprecation for details[0m
+[0m[[0m[33mwarn[0m] [0m[0m5 warnings found[0m
+[0m[[0m[0mdebug[0m] [0m[0mReleasing lock on file /Users/yifuduan/projects/cats/project/target/.sbt-compilation-infos/cats-compile/.sbt-idea-lock.[0m
